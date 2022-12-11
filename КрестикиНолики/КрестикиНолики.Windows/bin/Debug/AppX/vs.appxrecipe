@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NIKITA</Machine>
+    <WindowsUser>nikit</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>954e3c65-a56b-44de-9a73-96c2a6226e05</PackageIdentityName>
+    <PackageIdentityPublisher>CN=nikit</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>1D5A42C2F23BEE5E59EF56AB81BA17F0B254B69C80AD7A204CAC3ECC15890265</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>954e3c65-a56b-44de-9a73-96c2a6226e05_1.0.0.0_neutral__e0czjm4dkbe7e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>954e3c65-a56b-44de-9a73-96c2a6226e05_e0czjm4dkbe7e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>954e3c65-a56b-44de-9a73-96c2a6226e05</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=nikit</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-29T19:42:01.575</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\КрестикиНолики.Windows.exe">
+      <PackagePath>КрестикиНолики.Windows.exe</PackagePath>
+      <Modified>2017-12-31T09:51:25.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\FieldKN.png">
+      <PackagePath>Assets\FieldKN.png</PackagePath>
+      <Modified>2017-09-29T13:56:00.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\Krest.png">
+      <PackagePath>Assets\Krest.png</PackagePath>
+      <Modified>2017-09-29T13:56:00.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\Null.png">
+      <PackagePath>Assets\Null.png</PackagePath>
+      <Modified>2017-09-29T13:56:00.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\КрестикиНолики.Windows.xr.xml">
+      <PackagePath>КрестикиНолики.Windows.xr.xml</PackagePath>
+      <Modified>2017-10-01T09:54:55.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-09-29T14:09:24.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\View\GameControl.xbf">
+      <PackagePath>View\GameControl.xbf</PackagePath>
+      <Modified>2017-10-01T10:27:36.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\View\Krest.xbf">
+      <PackagePath>View\Krest.xbf</PackagePath>
+      <Modified>2017-09-29T19:42:00.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+      <Modified>2017-10-01T09:54:55.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-29T19:42:00.833</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

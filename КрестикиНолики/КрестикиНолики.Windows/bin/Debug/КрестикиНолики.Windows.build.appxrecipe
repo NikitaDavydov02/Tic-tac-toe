@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NIKITA</Machine>
+    <WindowsUser>nikit</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>954e3c65-a56b-44de-9a73-96c2a6226e05</PackageIdentityName>
+    <PackageIdentityPublisher>CN=nikit</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\КрестикиНолики.Windows.exe">
+      <PackagePath>КрестикиНолики.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\FieldKN.png">
+      <PackagePath>Assets\FieldKN.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\Krest.png">
+      <PackagePath>Assets\Krest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\Null.png">
+      <PackagePath>Assets\Null.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\КрестикиНолики.Windows.xr.xml">
+      <PackagePath>КрестикиНолики.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\View\GameControl.xbf">
+      <PackagePath>View\GameControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\View\Krest.xbf">
+      <PackagePath>View\Krest.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

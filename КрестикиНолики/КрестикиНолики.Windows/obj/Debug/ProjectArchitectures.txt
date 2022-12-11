@@ -1,0 +1,1 @@
+C:\Users\nikit\Documents\C#\КрестикиНолики\КрестикиНолики\КрестикиНолики.Windows\КрестикиНолики.Windows.csproj;neutral
